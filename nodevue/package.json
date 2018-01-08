@@ -1,0 +1,19 @@
+{
+  "name": "nodevue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "panpan",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "cookies": "^0.7.0",
+    "express": "^4.15.3",
+    "markdown": "^0.5.0",
+    "mongoose": "^4.11.1",
+    "swing": "^3.1.1"
+  }
+}
